@@ -1,0 +1,19 @@
+body{
+font-family:qayiq;}
+h1{
+text-align:center;}
+form{
+diplay:flex;
+justify-content:center;
+align-items:center;
+gap:1rem;}
+#soru{
+width:200px;
+padding:10px;
+border:1px solid #ccc;
+border-radius:5px;}
+#cevap{
+margin-top:1rem;
+padding:10px;
+border:1px solid #ccc;
+border-radius:5px;}
